@@ -44,7 +44,7 @@ Outside of work, I enjoy **sci-fi and mystery worlds**, where imagination meets 
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/javadfarshchi)  
+- [LinkedIn](https://linkedin.com/in/mjavadfarshchi)  
 - 📧 mjavad.farshchi@gmail.com  
 
 ---
