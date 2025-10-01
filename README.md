@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Javad Farshchi  
 
 💡 **Data Scientist | Software Engineer | AI Leader-in-Training | Mechanical Engineer**  
+
 I build and guide teams to create **reliable, human-centric technology** at the intersection of **machine learning, embedded systems, and medical innovation**. My passion is not only solving technical problems, but also shaping the vision, strategy, and culture around how AI is applied responsibly in industry.  
 
 ---
@@ -44,7 +45,7 @@ Outside of work, I enjoy **sci-fi and mystery worlds**, where imagination meets 
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://linkedin.com/in/javadfarshchi)  
-- 📧 javadfarshchi@gmail.com  
+- 📧 mjavad.farshchi@gmail.com  
 
 ---
 ⭐️ *“The best way to predict the future is to invent it.” – Alan Kay*
